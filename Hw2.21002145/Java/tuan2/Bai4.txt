@@ -1,0 +1,49 @@
+-Ex1: n = 10
+Day ban dau: [33, 31, 0, 47, 45, 51, 49, 93, 75, 50]
+
+Thuat toan Bubble Sort
+    so lan so sanh: 45
+    so lan da doi cho: 9
+    thoi gian chay (nanoS): 3300
+Thuat toan selection Sort
+    so lan so sanh: 45
+    so lan da doi cho: 0
+    thoi gian chay (nanoS): 2900
+Thuat toan insertion Sort
+    so lan so sanh: 0
+    so lan da doi cho: 9
+    thoi gian chay (nanoS): 1599
+
+-Ex2: n = 20
+Day ban dau: [91, 62, 87, 82, 86, 4, 48, 60, 30, 10, 55, 91, 90, 36, 87, 16, 84, 23, 24, 2]
+
+Thuat toan Bubble Sort
+    so lan so sanh: 190
+    so lan da doi cho: 123
+    thoi gian chay (nanoS): 15100
+Thuat toan selection Sort
+    so lan so sanh: 190
+    so lan da doi cho: 0
+    thoi gian chay (nanoS): 8600
+Thuat toan insertion Sort
+    so lan so sanh: 0
+    so lan da doi cho: 19
+    thoi gian chay (nanoS): 4300
+
+
+
+-Ex3: n = 50
+Day ban dau: [86, 15, 10, 30, 4, 90, 19, 87, 45, 86, 19, 60, 58, 74, 41, 83, 97, 21, 36, 26, 4, 21, 60, 68, 82, 35, 69, 69, 15, 51, 31, 81, 5, 71, 86, 90, 92, 5, 98, 18, 29, 64, 7, 3, 13, 16, 79, 85, 44, 90]
+
+Thuat toan Bubble Sort
+    so lan so sanh: 1225
+    so lan da doi cho: 588
+    thoi gian chay (nanoS): 58000
+Thuat toan selection Sort
+    so lan so sanh: 1225
+    so lan da doi cho: 0
+    thoi gian chay (nanoS): 32800
+Thuat toan insertion Sort
+    so lan so sanh: 0
+    so lan da doi cho: 49
+    thoi gian chay (nanoS): 3601
